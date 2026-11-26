@@ -1,0 +1,186 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="OUXrelMyt-eEW-A3x8Jj">
+    <mxGraphModel dx="1750" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-11" edge="1" parent="1" source="XmPwxTJiJQSGmkwhPc-U-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="XmPwxTJiJQSGmkwhPc-U-8">
+          <mxGeometry relative="1" x="0.1613" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="100" />
+              <mxPoint x="335" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-12" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="アカウント作成を押す" vertex="1">
+          <mxGeometry relative="1" x="0.1226" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-13" edge="1" parent="1" source="XmPwxTJiJQSGmkwhPc-U-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="XmPwxTJiJQSGmkwhPc-U-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-14" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="ログインを押す" vertex="1">
+          <mxGeometry relative="1" x="0.3323" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ログイン画面" vertex="1">
+          <mxGeometry height="40" width="140" x="300" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-21" edge="1" parent="1" source="XmPwxTJiJQSGmkwhPc-U-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="XmPwxTJiJQSGmkwhPc-U-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-22" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="ログインを押す" vertex="1">
+          <mxGeometry relative="1" x="0.2182" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-23" edge="1" parent="1" source="XmPwxTJiJQSGmkwhPc-U-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-24" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="アカウント作成を押す" vertex="1">
+          <mxGeometry relative="1" x="0.5773" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-31" edge="1" parent="1" source="XmPwxTJiJQSGmkwhPc-U-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="360" />
+              <mxPoint x="260" y="360" />
+            </Array>
+            <mxPoint x="510" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-32" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="タイムラインへを押す" vertex="1">
+          <mxGeometry relative="1" x="0.5879" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="トップ画面" vertex="1">
+          <mxGeometry height="40" width="140" x="40" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-15" edge="1" parent="1" source="XmPwxTJiJQSGmkwhPc-U-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="XmPwxTJiJQSGmkwhPc-U-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-17" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="ログインを押す" vertex="1">
+          <mxGeometry relative="1" x="0.6018" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-18" edge="1" parent="1" source="XmPwxTJiJQSGmkwhPc-U-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="XmPwxTJiJQSGmkwhPc-U-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-19" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="登録を押す" vertex="1">
+          <mxGeometry relative="1" x="0.5077" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-33" edge="1" parent="1" source="XmPwxTJiJQSGmkwhPc-U-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="XmPwxTJiJQSGmkwhPc-U-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="160" />
+              <mxPoint x="405" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-34" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="ログインを押す" vertex="1">
+          <mxGeometry relative="1" x="0.4992" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ユーザー登録画面" vertex="1">
+          <mxGeometry height="40" width="140" x="300" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-35" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=1;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="320.0000000000001" as="sourcePoint" />
+            <mxPoint x="180" y="320.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-36" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="ログアウトを押す" vertex="1">
+          <mxGeometry relative="1" x="0.5433" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-37" edge="1" parent="1" source="XmPwxTJiJQSGmkwhPc-U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="XmPwxTJiJQSGmkwhPc-U-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-38" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="編集を押す" vertex="1">
+          <mxGeometry relative="1" x="0.3964" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-39" edge="1" parent="1" source="XmPwxTJiJQSGmkwhPc-U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=1;entryY=1;entryDx=0;entryDy=0;innerLoopWaypoints=1;" target="XmPwxTJiJQSGmkwhPc-U-9">
+          <mxGeometry relative="1" x="-0.5" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="340" />
+              <mxPoint x="680" y="380" />
+              <mxPoint x="660" y="380" />
+            </Array>
+            <mxPoint x="670" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-40" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="削除を押す" vertex="1">
+          <mxGeometry relative="1" x="-0.48" y="1" as="geometry">
+            <mxPoint x="29" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="投稿一覧画面" vertex="1">
+          <mxGeometry height="40" width="140" x="520" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-41" edge="1" parent="1" source="XmPwxTJiJQSGmkwhPc-U-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="XmPwxTJiJQSGmkwhPc-U-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="480" />
+              <mxPoint x="640" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-42" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="更新を押す" vertex="1">
+          <mxGeometry relative="1" x="0.1659" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="投稿編集画面" vertex="1">
+          <mxGeometry height="40" width="140" x="520" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="10" y="410" as="sourcePoint" />
+            <mxPoint x="60" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-30" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="ログアウトを押す" vertex="1">
+          <mxGeometry relative="1" x="-0.5043" y="-3" as="geometry">
+            <mxPoint x="15" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-29" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="410" as="sourcePoint" />
+            <mxPoint x="90" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-43" edge="1" parent="1" source="XmPwxTJiJQSGmkwhPc-U-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.102;entryY=1.087;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="XmPwxTJiJQSGmkwhPc-U-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="480" />
+              <mxPoint x="550" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmPwxTJiJQSGmkwhPc-U-44" connectable="0" parent="XmPwxTJiJQSGmkwhPc-U-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="キャンセルを押す" vertex="1">
+          <mxGeometry relative="1" x="0.2007" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
